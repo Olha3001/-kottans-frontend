@@ -1,13 +1,13 @@
 ## Git та GitHub
 
 I listened to the course **Introduction to Git and GitHub** for 1-2 weeks. It was a big mistake to do this after the pell-request was done. I brought for myself knowledge on -
-*Git commit -a last commit when you are sure you won't change anything
-*Git rm - deleting an untracked file
-*Git mv - renaming a commit
-*Git checkout can also cancel a command before the last snapshot
-*Dash -p check not the whole file, but some changes - git reset dash -p
-*Git revert - rollback - create a new commit reversed erroneous (you can git revert+ID)
-*Git log (num) for example 2 - see the last 2 entries
+* Git commit -a last commit when you are sure you won't change anything
+* Git rm - deleting an untracked file
+* Git mv - renaming a commit
+* Git checkout can also cancel a command before the last snapshot
+* Dash -p check not the whole file, but some changes - git reset dash -p
+* Git revert - rollback - create a new commit reversed erroneous (you can git revert+ID)
+* Git log (num) for example 2 - see the last 2 entries
 
 Completed all levels [learngitbranching.js.org:]
 ![ScreenShot](/img/basicgit.png)
