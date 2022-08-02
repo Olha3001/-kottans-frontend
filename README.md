@@ -28,13 +28,13 @@ This course provides a minimum, initial knowledge
 
 - [x] [Лекція по Git від Олексія Руденка](https://www.youtube.com/playlist?list=PLS8sEUxbfFY9MnPIFPTNlaS5xX7P5Ge-5)
 - [x] [Git за 30 хвилин](https://codeguida.com/post/453)
-- []  [Git tips ](https://www.webfx.com/blog/web-design/git-tips/)
+- [ ]  [Git tips ](https://www.webfx.com/blog/web-design/git-tips/)
 - [X] [About Merge Conflicts](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/about-merge-conflicts)
 - [x] [Resoilving a Merge Conflict](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-using-the-command-line)
-- [] [Communicating using Markdown](https://lab.github.com/githubtraining/communicating-using-markdown)
-- [] [Learn anything front-end](https://learn-anything.xyz/web-development/front-end)
-- [] [TypingClub ](https://www.typingclub.com/)
-- [] [How to Learn and Cope with Negative Thoughts](https://guides.hexlet.io/learning/)
+- [ ] [Communicating using Markdown](https://lab.github.com/githubtraining/communicating-using-markdown)
+- [ ] [Learn anything front-end](https://learn-anything.xyz/web-development/front-end)
+- [ ] [TypingClub ](https://www.typingclub.com/)
+- [ ] [How to Learn and Cope with Negative Thoughts](https://guides.hexlet.io/learning/)
 
 ________________________________________________________________________
 
