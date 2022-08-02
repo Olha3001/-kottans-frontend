@@ -10,8 +10,8 @@ I listened to the course **Introduction to Git and GitHub** for 1-2 weeks. It wa
 * Git log (num) for example 2 - see the last 2 entries
 
 Completed all levels [learngitbranching.js.org:]
-![ScreenShot](/img/basicgit.png)
-![ScreenShot](/img/remote%20repo.png)
+![ScreenShot](/task_git_github/basicgit.png)
+![ScreenShot](/task_git_github/remote%20repo.png)
 
 * This course gave an understanding of the basics of git , its main commands. As well as understanding the branching of commits in git repositories
 * It was interesting to go through the tutorial and see how the commands are executed.
