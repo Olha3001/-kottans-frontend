@@ -110,3 +110,16 @@ In this course, it was also interesting to go through the game to see how the te
  [x] [HTTP: Протокол, який повинен розуміти кожний веб-розробник - Частина 1](https://code.tutsplus.com/uk/tutorials/http-the-protocol-every-web-developer-must-know-part-2--net-31155)
 
  [x] [HTTP: Протокол, який повинен розуміти кожний веб-розробник - Частина 2](https://code.tutsplus.com/uk/tutorials/http-the-protocol-every-web-developer-must-know-part-2--net-31155)
+
+
+## Git Collaboration
+
+ [x] [3 і 4 курсу Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github)
+ [x] (Пройдіть наступні рівні learngitbranching.js.org) [https://learngitbranching.js.org/?locale=uk]
+
+ [ ] [Flight rules for git](https://github.com/k88hudson/git-flight-rules/blob/master/README_ru.md) цей курс потрохи роздруковуєсться та вішається на стіну перед очима, там зібрано майже все що має статися в нагоді на протязі усієї роботи не тільки в новачків.
+
+[x] [Oh shit, git!](https://ohshitgit.com/ru) Дуже доступною мову і зрозуміло написано))) Забрала собі в скарбничку
+[x] [GitHub Skills](https://github.com/skills/resolve-merge-conflicts) Це також забрала собі на в читання перед сном)
+![ScreenShot](/task_git_collaboration/basicgit.png)
+![ScreenShot](/task_git_collaboration/remote%20repo.png)
