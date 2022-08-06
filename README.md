@@ -128,9 +128,9 @@ In this course, it was also interesting to go through the game to see how the te
 ## Intro to HTML and CSS
 В цьому курсі зустріла багато вже знайомого, що сталося в пригоді, так це повторення блокової моделі.
 Відео "Фрилансер по жизни"  бачила раніше, теж по ним займалась
-[x] [ Intro to HTML & CSS](https://www.coursera.org/learn/html-css-javascript-for-web-developers)
-[x] [Learn HTML(Eng)](https://www.codecademy.com/learn/learn-html)
-[x] [Learn CSS(Eng)](https://www.codecademy.com/learn/learn-css)
-[x] [HTML уроки (з 3 по 7 відео)](https://www.youtube.com/watch?v=z3GS5oYGq5U&list=PLM6XATa8CAG4uCli-pMvuvwj46UaQoqIc&index=5)
-[x] [CSS уроки (з 9 по 15 відео)](https://www.youtube.com/watch?v=z3GS5oYGq5U&list=PLM6XATa8CAG4uCli-pMvuvwj46UaQoqIc&index=5)
+[x]  [ Intro to HTML & CSS](https://www.coursera.org/learn/html-css-javascript-for-web-developers)
+[x]  [Learn HTML(Eng)](https://www.codecademy.com/learn/learn-html)
+[x]  [Learn CSS(Eng)](https://www.codecademy.com/learn/learn-css)
+[x]  [HTML уроки (з 3 по 7 відео)](https://www.youtube.com/watch?v=z3GS5oYGq5U&list=PLM6XATa8CAG4uCli-pMvuvwj46UaQoqIc&index=5)
+[x]  [CSS уроки (з 9 по 15 відео)](https://www.youtube.com/watch?v=z3GS5oYGq5U&list=PLM6XATa8CAG4uCli-pMvuvwj46UaQoqIc&index=5)
 ![ScreenShot](/task_html_css_intro/codeacademy.png)
