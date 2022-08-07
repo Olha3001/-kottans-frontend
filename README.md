@@ -134,3 +134,15 @@ In this course, it was also interesting to go through the game to see how the te
 - [x]  [HTML уроки (з 3 по 7 відео)](https://www.youtube.com/watch?v=z3GS5oYGq5U&list=PLM6XATa8CAG4uCli-pMvuvwj46UaQoqIc&index=5)
 - [x]  [CSS уроки (з 9 по 15 відео)](https://www.youtube.com/watch?v=z3GS5oYGq5U&list=PLM6XATa8CAG4uCli-pMvuvwj46UaQoqIc&index=5)
 - ![ScreenShot](/task_html_css_intro/codeacademy.png)
+
+ ## Responsive Web Design
+
+З ціма св-ва стикалась і раніше, але ці речі які не дозволяють забути про себе і які ну дуже полегшують позіювання в порівнянні як це було раніше при блочній системі. Дві гри по flex & grid також бачило пїраніше, але й задоволенням та для закріплення пройшла ще раз 
+- [x] [Responsive web design basics](https://web.dev/i18n/en/responsive-web-design-basics/)
+- [x] [FLEXBOX. Вчимося верстати на флексах](https://www.youtube.com/playlist?list=PLM6XATa8CAG5mPV60dMmjMRrHVW4LmV2x)
+- [x] [Flexbox Froggy ](http://flexboxfroggy.com/#ru)
+- [x] [CSS Grid Layout](https://www.youtube.com/watch?v=GV92IdMGFfA&list=PLM6XATa8CAG5pXQrW_kDaeZb_uIAMNZIm)
+- [x] [Grid Garden ](http://cssgridgarden.com/#ru)
+
+![ScreenShot](/task_responsive_web_design/frog.png)
+![ScreenShot](/task_responsive_web_design/grid.png)
